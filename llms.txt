@@ -1,0 +1,21 @@
+# G7 Consultoria em Mineração e Meio Ambiente
+
+> Consultoria em mineração, licenciamento ambiental e regularização fundiária rural em Montes Claros (MG), com atendimento em todo o Norte de Minas. Acompanhamento direto do engenheiro responsável em cada etapa do processo, junto à ANM, aos órgãos ambientais e ao INCRA e cartório.
+
+## Informações da empresa
+
+- Nome: G7 Consultoria em Mineração e Meio Ambiente
+- Endereço: R. Joãozinho de Dodô, 381, Santa Rita I, Montes Claros - MG, 39400-413
+- Telefone e WhatsApp: (38) 99222-8666
+- Horário de atendimento: segunda a sexta, das 08h às 12h e das 14h às 18h. Fechado aos sábados e domingos.
+- Região de atuação: Montes Claros e todo o Norte de Minas Gerais
+
+## Serviços
+
+- Serviços de Mineração: Registro de Extração, Concessão de Lavra, PLG (Permissão de Lavra Garimpeira) e PFM (Plano de Fechamento de Mina), com regularização de processos minerários junto à ANM.
+- Licenciamento Ambiental: RCA/PCA (Relatório e Plano de Controle Ambiental), LAS/RAS (Licenciamento Simplificado), outorgas de uso da água e intervenção ambiental.
+- Regularização Fundiária Rural: georreferenciamento e certificação, regularização de matrícula rural e adequação junto ao INCRA e ao cartório.
+
+## Página principal
+
+- [Site da G7 Consultoria](https://sitesempresas-web.github.io/G7-Consultoria-Mineracao-Meio-Ambiente/): serviços, sobre a empresa, área de atendimento, dúvidas frequentes e contato.
